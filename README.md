@@ -60,17 +60,24 @@ Ecommerce-Analytics-System/
 
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/Sumanthkumark05/ecommerce-analytics-system.git
+
 2️⃣ Navigate to the Project Directory
 cd ecommerce-analytics-system
+
 3️⃣ Create a Virtual Environment
 python -m venv venv
+
 4️⃣ Activate the Virtual Environment
 For Windows
 venv\Scripts\activate
 For macOS/Linux
 source venv/bin/activate
+
 5️⃣ Install Dependencies
 pip install -r requirements.txt
+
 6️⃣ Run the Application
+python app.py
