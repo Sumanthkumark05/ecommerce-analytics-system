@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>
+        E-Commerce Analytics
+    </title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='style.css') }}"
+    >
+
+</head>
+
+<body>
+
+<h1>
+    🛒 E-Commerce Analytics Dashboard
+</h1>
+
+<div class="card">
+
+    <h2>📈 Sales Summary</h2>
+
+    <p>
+        Total Sales:
+        ₹{{ sales.total_sales }}
+    </p>
+
+    <p>
+        Total Orders:
+        {{ sales.total_orders }}
+    </p>
+
+    <p>
+        Top Product:
+        {{ sales.top_product }}
+    </p>
+
+</div>
+
+<div class="card">
+
+    <h2>👥 Customer Retention</h2>
+
+    <p>
+        Retention Rate:
+        {{ retention }}%
+    </p>
+
+</div>
+
+<div class="card">
+
+    <h2>⚠️ Low Stock Products</h2>
+
+    <ul>
+
+    {% for item in stock %}
+
+        <li>
+            {{ item.ProductName }}
+            -
+            Stock:
+            {{ item.Stock }}
+        </li>
+
+    {% endfor %}
+
+    </ul>
+
+</div>
+
+<div class="card">
+
+    <h2>🎯 Recommendations</h2>
+
+    <p>
+        Recommended Similar Customers:
+    </p>
+
+    <ul>
+
+    {% for user in recommendations %}
+
+        <li>
+            Customer ID:
+            {{ user }}
+        </li>
+
+    {% endfor %}
+
+    </ul>
+
+</div>
+
+</body>
+</html>

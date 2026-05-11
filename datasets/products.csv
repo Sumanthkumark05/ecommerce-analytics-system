@@ -1,0 +1,101 @@
+ProductID,ProductName,Stock
+101,Laptop,10
+102,Mouse,100
+103,Keyboard,15
+104,Monitor,8
+105,Headphones,45
+106,Webcam,32
+107,Printer,12
+108,Tablet,25
+109,Smartphone,50
+110,Charger,80
+111,USB Cable,120
+112,Power Bank,35
+113,Speaker,27
+114,Router,19
+115,SSD,22
+116,HDD,18
+117,RAM,40
+118,Graphics Card,6
+119,CPU,9
+120,Motherboard,14
+121,Smartwatch,28
+122,Fitness Band,34
+123,Camera,11
+124,Tripod,17
+125,Microphone,13
+126,Projector,7
+127,Gaming Chair,16
+128,Gaming Mouse,44
+129,Gaming Keyboard,38
+130,VR Headset,5
+131,Drone,8
+132,TV,20
+133,Air Conditioner,6
+134,Refrigerator,4
+135,Washing Machine,5
+136,Microwave Oven,9
+137,Electric Kettle,23
+138,Coffee Maker,12
+139,Vacuum Cleaner,15
+140,Water Purifier,10
+141,Ceiling Fan,18
+142,Air Purifier,14
+143,Iron Box,25
+144,Hair Dryer,30
+145,Trimmer,28
+146,Electric Toothbrush,19
+147,Bluetooth Earbuds,42
+148,Phone Case,110
+149,Laptop Bag,35
+150,Desk Lamp,24
+151,Office Chair,12
+152,Notebook,200
+153,Pen Drive,70
+154,External Hard Drive,21
+155,HDMI Cable,65
+156,Extension Board,31
+157,Smart Bulb,22
+158,Security Camera,13
+159,Door Lock,17
+160,Smart Plug,29
+161,Electric Scooter,4
+162,Bicycle Helmet,16
+163,Running Shoes,40
+164,Treadmill,3
+165,Dumbbells,26
+166,Yoga Mat,45
+167,Football,33
+168,Basketball,27
+169,Cricket Bat,14
+170,Tennis Racket,11
+171,Backpack,38
+172,Sunglasses,52
+173,Wrist Watch,20
+174,Wallet,41
+175,Perfume,25
+176,Jacket,18
+177,T-Shirt,90
+178,Jeans,55
+179,Sneakers,37
+180,Formal Shoes,24
+181,Kitchen Knife Set,13
+182,Frying Pan,18
+183,Cookware Set,9
+184,Pressure Cooker,11
+185,Dining Table,3
+186,Sofa Set,2
+187,Bed Mattress,6
+188,Pillow,50
+189,Blanket,28
+190,Curtains,15
+191,Study Table,8
+192,Bookshelf,7
+193,LED Strip Lights,26
+194,Action Camera,10
+195,Smart Ring,5
+196,Gaming Console,7
+197,Mechanical Keyboard,16
+198,Streaming Device,19
+199,Wireless Charger,27
+200,Portable Monitor,9

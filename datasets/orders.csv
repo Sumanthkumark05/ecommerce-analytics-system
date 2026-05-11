@@ -1,0 +1,51 @@
+OrderID,CustomerID,ProductID,ProductName,Quantity,Price
+1,1,101,Laptop,1,70000
+2,2,102,Mouse,2,500
+3,3,103,Keyboard,1,1500
+4,4,104,Monitor,1,12000
+5,5,105,Headphones,2,3000
+6,6,106,Webcam,1,2500
+7,7,107,Printer,1,9000
+8,8,108,Tablet,1,25000
+9,9,109,Smartphone,1,45000
+10,10,110,Charger,3,800
+11,11,111,USB Cable,5,300
+12,12,112,Power Bank,1,2000
+13,13,113,Speaker,1,4000
+14,14,114,Router,1,3500
+15,15,115,SSD,2,5000
+16,16,116,HDD,1,4500
+17,17,117,RAM,2,3500
+18,18,118,Graphics Card,1,40000
+19,19,119,CPU,1,22000
+20,20,120,Motherboard,1,15000
+21,21,121,Smartwatch,1,7000
+22,22,122,Fitness Band,1,2500
+23,23,123,Camera,1,55000
+24,24,124,Tripod,1,1800
+25,25,125,Microphone,1,5000
+26,26,126,Projector,1,30000
+27,27,127,Gaming Chair,1,12000
+28,28,128,Gaming Mouse,1,2500
+29,29,129,Gaming Keyboard,1,4500
+30,30,130,VR Headset,1,35000
+31,31,131,Drone,1,50000
+32,32,132,TV,1,60000
+33,33,133,Air Conditioner,1,45000
+34,34,134,Refrigerator,1,38000
+35,35,135,Washing Machine,1,32000
+36,36,136,Microwave Oven,1,10000
+37,37,137,Electric Kettle,2,1500
+38,38,138,Coffee Maker,1,4500
+39,39,139,Vacuum Cleaner,1,9000
+40,40,140,Water Purifier,1,14000
+41,41,141,Ceiling Fan,2,2500
+42,42,142,Air Purifier,1,12000
+43,43,143,Iron Box,1,1800
+44,44,144,Hair Dryer,1,2200
+45,45,145,Trimmer,1,1500
+46,46,146,Electric Toothbrush,1,3500
+47,47,147,Bluetooth Earbuds,1,5000
+48,48,148,Phone Case,3,500
+49,49,149,Laptop Bag,1,2000
+50,50,150,Desk Lamp,2,1200
