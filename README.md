@@ -1,4 +1,6 @@
 E-Commerce Analytics System
+
+
 📌 Project Overview
 
 The E-Commerce Analytics System is a smart analytics platform developed to help businesses better understand their sales performance, customer behavior, and overall business growth. The project focuses on transforming raw e-commerce data into meaningful insights through interactive dashboards, reports, and visualizations.
@@ -45,15 +47,23 @@ VS Code
 
 📂 Project Structure
 Ecommerce-Analytics-System/
-│
+
 ├── data/                  # Dataset files
+
 ├── templates/             # HTML templates
+
 ├── static/                # CSS, JS, Images
+
 ├── analytics/             # Analytics scripts
+
 ├── models/                # Database models
+
 ├── app.py                 # Main Flask application
+
 ├── requirements.txt       # Project dependencies
+
 ├── README.md              # Project documentation
+
 └── database.db            # Database file
 
 
