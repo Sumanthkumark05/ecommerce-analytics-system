@@ -43,7 +43,6 @@ Git
 GitHub
 VS Code
 
-
 📂 Project Structure
 Ecommerce-Analytics-System/
 │
